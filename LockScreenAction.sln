@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockScreenAction", "LockScreenAction\LockScreenAction.csproj", "{A679A364-8E1F-4DB0-8095-9A0F8D8C11D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A679A364-8E1F-4DB0-8095-9A0F8D8C11D7}.Debug|x86.ActiveCfg = Debug|x86
+		{A679A364-8E1F-4DB0-8095-9A0F8D8C11D7}.Debug|x86.Build.0 = Debug|x86
+		{A679A364-8E1F-4DB0-8095-9A0F8D8C11D7}.Release|x86.ActiveCfg = Release|x86
+		{A679A364-8E1F-4DB0-8095-9A0F8D8C11D7}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
