@@ -19,4 +19,4 @@ NETWORK_NAME ="以太网,以太网 2,以太网3"
 - 必须以管理员权限运行
 - 目前仅可禁用物理网络适配器
 - 可以使用ping -t 查看网络是否断开及恢复，以测试程序是否正常工作
-- 注册表 HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run 新建字符串值，数值数据为exe可执行文件路径，exe文件兼容性设置为“以管理员权限运行”
+- 设置开机启动，并以管理员权限运行参考：注册表 HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Run 新建字符串值，数值数据为exe可执行文件路径，exe文件兼容性设置为“以管理员权限运行”
